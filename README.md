@@ -1,2 +1,1 @@
-# smtc-cmpr
-Semantic Compression Project
+# Semantic Compression Project
